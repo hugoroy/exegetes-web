@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Qui sommes-nous ?
+  url: /about/
+
+- title: Nos travaux
+  url: /travaux/
+
+- title: Revue de Presse
+  url: /rp/
+
+- title: English zone
+  url: /en/
+
+- title: Espace de travail
+  url: /amateurs/
