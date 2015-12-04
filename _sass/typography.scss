@@ -134,6 +134,9 @@ p {
 	margin: 0 0 $indent-var;
 	// sibling indentation
   @if $paragraph-indent == true {
+    & {
+			text-indent: $indent-var;
+		}
     & + p {
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
