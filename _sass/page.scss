@@ -404,7 +404,9 @@ $button-size: 1.5rem;
 		}
 		p {
 			margin-bottom: 20px;
-			text-align:justify;
+			/* text-align:justify; */
+            /* Do not justify tiny text like this otherwise it creates
+            too much blank space --- unless you turn hyphenation on */
 		}
 		.author-social {
 			margin-bottom: 5px;
