@@ -335,9 +335,12 @@ $button-size: 1.5rem;
 }
 /* Large feature image fix for the home page */
 .home .image-wrap img {
-    max-width: 50%;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+    max-width: 100%;
+    @media #{$large} {
+        max-width: 50%;
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+    }
 }
 
 /* Post byline */
