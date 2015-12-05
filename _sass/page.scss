@@ -335,7 +335,7 @@ $button-size: 1.5rem;
 }
 /* Large feature image fix for the home page */
 .home .image-wrap img {
-    max-width: 100%;
+    max-width: 90%;
     @media #{$large} {
         max-width: 50%;
         margin-top: 1.5em;
