@@ -154,8 +154,13 @@ p {
 .post article {
     @if $paragraph-indent == true {
         p {
-                text-indent: $indent-var;
-            blockquote &, table &, figure &, header &, footer &, .noindent, &.noindent, &.notice {
+            text-indent: $indent-var;
+            &.noindent, &.notice {
+                text-indent: 0;
+            }
+        }
+        blockquote, table, figure, header, footer, .noindent {
+            p {
                 text-indent: 0;
             }
         }
