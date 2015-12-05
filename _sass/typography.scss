@@ -139,7 +139,7 @@ p {
     hyphens: auto;
 }
 
-.post p {
+.post article p {
   @if $paragraph-indent == true {
     & {
 			text-indent: $indent-var;
