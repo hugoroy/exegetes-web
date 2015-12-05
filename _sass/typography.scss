@@ -137,22 +137,23 @@ p {
     -ms-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
+
+    & + p {
+        margin-top: -($indent-var);
+    }
 }
 
-.post article p {
-  @if $paragraph-indent == true {
-    & {
-			text-indent: $indent-var;
-		}
-	// sibling indentation
-    & + p {
-			text-indent: $indent-var;
-			margin-top: -($indent-var);
-		}
-    blockquote &, table &, figure &, header &, footer &, .noindent & {
-        text-indent: 0;
+@if $paragraph-indent == true {
+    .post article {
+        p {
+                text-indent: $indent-var;
+            }
     }
-  }
+    blockquote, table, figure, header, footer, .noindent {
+        p {
+            text-indent: 0;
+        }
+    }
 }
 
 /*
