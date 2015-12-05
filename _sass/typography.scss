@@ -135,9 +135,14 @@ blockquote {
 p {
     font-size: 1.1rem;
 	margin: 0 0 $indent-var;
-    text-align: justify;
+    /* text-align: justify; */
+    /* Do not justify the text until all major web browsers support
+    hyphens for lang="fr" which is not the case for Chrome yet. See
+    https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens#Browser_compatibility
+    */
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
+    -o-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
 
