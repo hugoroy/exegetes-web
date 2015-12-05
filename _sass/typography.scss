@@ -143,15 +143,15 @@ p {
     }
 }
 
-@if $paragraph-indent == true {
-    .post article {
+.post article {
+    @if $paragraph-indent == true {
         p {
                 text-indent: $indent-var;
             }
-    }
-    blockquote, table, figure, header, footer, .noindent {
-        p {
-            text-indent: 0;
+        blockquote, table, figure, header, footer, .noindent {
+            p {
+                text-indent: 0;
+            }
         }
     }
 }
