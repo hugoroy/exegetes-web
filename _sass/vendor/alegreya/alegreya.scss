@@ -2,8 +2,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-blackitalic-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC Black Italic'),
+         url('#{$font-path}/alegreyasc-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-blackitalic-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-blackitalic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-blackitalic-webfont.ttf') format('truetype'),
@@ -19,8 +19,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-black-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-black-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC Black'),
+         url('#{$font-path}/alegreyasc-black-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-black-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-black-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-black-webfont.ttf') format('truetype'),
@@ -36,8 +36,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-bolditalic-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC Bold Italic'),
+         url('#{$font-path}/alegreyasc-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-bolditalic-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-bolditalic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-bolditalic-webfont.ttf') format('truetype'),
@@ -53,8 +53,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-bold-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC Bold'),
+         url('#{$font-path}/alegreyasc-bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-bold-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-bold-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-bold-webfont.ttf') format('truetype'),
@@ -70,8 +70,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-italic-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-italic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC Italic'),
+         url('#{$font-path}/alegreyasc-italic-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-italic-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-italic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-italic-webfont.ttf') format('truetype'),
@@ -87,8 +87,8 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreyasc-regular-webfont.eot');
-    src: url('#{$font-path}/alegreyasc-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    src: local('Alegreya SC'),
+         url('#{$font-path}/alegreyasc-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('#{$font-path}/alegreyasc-regular-webfont.woff2') format('woff2'),
          url('#{$font-path}/alegreyasc-regular-webfont.woff') format('woff'),
          url('#{$font-path}/alegreyasc-regular-webfont.ttf') format('truetype'),
@@ -104,9 +104,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-blackitalic-webfont.eot');
-    src: url('#{$font-path}/alegreya-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-blackitalic-webfont.woff2') format('woff2'),
+    src: local('Alegreya Black Italic'),
+         url('#{$font-path}/alegreya-blackitalic-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-blackitalic-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-blackitalic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-blackitalic-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-blackitalic-webfont.svg#alegreyablack_italic') format('svg');
@@ -120,9 +121,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-black-webfont.eot');
-    src: url('#{$font-path}/alegreya-black-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-black-webfont.woff2') format('woff2'),
+    src: local('Alegreya Black'),
+         url('#{$font-path}/alegreya-black-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-black-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-black-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-black-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-black-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-black-webfont.svg#alegreyablack') format('svg');
@@ -136,9 +138,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-bolditalic-webfont.eot');
-    src: url('#{$font-path}/alegreya-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-bolditalic-webfont.woff2') format('woff2'),
+    src: local('Alegreya Bold Italic'),
+         url('#{$font-path}/alegreya-bolditalic-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-bolditalic-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-bolditalic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-bolditalic-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-bolditalic-webfont.svg#alegreyabold_italic') format('svg');
@@ -152,9 +155,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-bold-webfont.eot');
-    src: url('#{$font-path}/alegreya-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-bold-webfont.woff2') format('woff2'),
+    src: local('Alegreya Bold'),
+         url('#{$font-path}/alegreya-bold-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-bold-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-bold-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-bold-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-bold-webfont.svg#alegreyabold') format('svg');
@@ -168,9 +172,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-italic-webfont.eot');
-    src: url('#{$font-path}/alegreya-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-italic-webfont.woff2') format('woff2'),
+    src: local('Alegreya Italic'),
+         url('#{$font-path}/alegreya-italic-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-italic-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-italic-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-italic-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-italic-webfont.svg#alegreyaitalic') format('svg');
@@ -184,9 +189,10 @@ $font-path:        "../fonts" !default;
 
 @font-face {
     font-family: 'Alegreya';
-    src: url('#{$font-path}/alegreya-regular-webfont.eot');
-    src: url('#{$font-path}/alegreya-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('#{$font-path}/alegreya-regular-webfont.woff2') format('woff2'),
+    src: local('Alegreya'),
+         url('#{$font-path}/alegreya-regular-google.woff2') format('woff2'),
+         url('#{$font-path}/alegreya-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         /* url('#{$font-path}/alegreya-regular-webfont.woff2') format('woff2'), */
          url('#{$font-path}/alegreya-regular-webfont.woff') format('woff'),
          url('#{$font-path}/alegreya-regular-webfont.ttf') format('truetype'),
          url('#{$font-path}/alegreya-regular-webfont.svg#alegreyaregular') format('svg');
