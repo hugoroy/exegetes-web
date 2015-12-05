@@ -132,11 +132,19 @@ blockquote {
 
 p {
 	margin: 0 0 $indent-var;
-	// sibling indentation
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+.post p {
   @if $paragraph-indent == true {
     & {
 			text-indent: $indent-var;
 		}
+	// sibling indentation
     & + p {
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
