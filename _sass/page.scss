@@ -16,7 +16,7 @@ body {
 	@include container;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
-	font-weight: 300;
+	font-weight: 500;
 	/* text-transform: uppercase; */
 	@include clearfix;
 }
@@ -29,6 +29,7 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
+	text-transform: uppercase;
 	@include font-rem(24);
 	@media #{$small} {
 		@include grid(12,2);
