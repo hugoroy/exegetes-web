@@ -473,6 +473,17 @@ $button-size: 1.5rem;
 	p > strong > a,
 	li > a {
 		text-decoration: none;
+        color: $link-color;
+        &:visited {
+            color: $linkcolorvisited;
+        }
+        &:hover {
+            color: $linkcolorhover;
+        }
+        &:focus {
+            outline: thin dotted;
+            color: $linkcolorfocus;
+        }
 	}
 }
 

@@ -36,16 +36,16 @@ h6 {
 
 a {
 	text-decoration: none;
-	color: $link-color;
+	color: $link-coloralt;
 	&:visited {
-		color: $linkcolorvisited;
+		color: $linkcoloraltvisited;
 	}
 	&:hover {
-		color: $linkcolorhover;
+		color: $linkcoloralthover;
 	}
 	&:focus {
 		outline: thin dotted;
-		color: $linkcolorfocus;
+		color: $linkcoloraltfocus;
 	}
 	&:hover,
 	&:active {
