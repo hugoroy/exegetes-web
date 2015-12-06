@@ -295,6 +295,9 @@ $button-size: 1.5rem;
 	margin-bottom: 2em;
 	background-color:#DDD;
 	@include clearfix;
+	@media #{$small} {
+		padding:1em 0;
+	}
 	&:after {/*
 		content: " ";
 		display: block;
