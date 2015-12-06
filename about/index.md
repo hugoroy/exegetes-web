@@ -27,8 +27,10 @@ des communications internationales, etc.)
 
 ## Pourquoi ce nom ?
 
-C’est pendant les discussions à l'Assemblée nationale sur le projet de
-loi relatif au renseignement qu’une partie des opposants fût qualifiée
+Lors des discussions à l'Assemblée nationale sur le projet de loi
+relatif au renseignement, les opposants, nombreux, furent qualifiés
 d’« exégètes amateurs » par Jean-Jacques Urvoas, le député rapporteur.
 Fidèlement à la tradition, nous avons détourné ce sobriquet pour le
 prendre à notre compte.
+
+ > **amateur**, du latin *amator* (passionné, du verbe *aimer*)
