@@ -4,6 +4,13 @@ title: Revue de presse
 modified: 2016-02-02
 ---
 
+
+<section id="table-of-contents" class="toc">
+	<div id="drawer" markdown="1">
+	{:toc}
+	</div>
+</section><!-- /#table-of-contents -->
+
 ## Le Figaro
 
 [Loi renseignement : les opposants tirent leur dernière cartouche](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php)
