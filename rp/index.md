@@ -6,9 +6,9 @@ modified: 2016-02-02
 
 
 <section id="table-of-contents" class="toc">
-	<div id="drawer" markdown="1">
-	{:toc}
-	</div>
+<div id="drawer" markdown="1">
+{:toc}
+</div>
 </section><!-- /#table-of-contents -->
 
 ## Le Figaro
