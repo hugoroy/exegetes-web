@@ -4,7 +4,7 @@ title: Revue de presse
 modified: 2016-02-02
 ---
 
-# Mediapart
+## Mediapart
 
 [Surveillance: les «exégètes amateurs» construisent une guérilla juridique](https://www.mediapart.fr/journal/france/261015/surveillance-les-exegetes-amateurs-construisent-une-guerilla-juridique)
 
