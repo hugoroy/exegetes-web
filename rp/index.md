@@ -4,7 +4,21 @@ title: Revue de presse
 modified: 2016-02-02
 ---
 
+## Le Figaro
+
+[Loi renseignement : les opposants tirent leur dernière cartouche](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php)
+
+23 juin 2015. Par Jules Darmanin.
+
 ## Le Monde
+
+[Inquiétude sur les données de connexion](http://www.lemonde.fr/societe/article/2015/07/22/inquietude-sur-les-donnees-de-connexion_4693599_3224.html)
+
+22 juillet 2015. Par Franck Johannès
+
+[La loi renseignement définitivement adoptée](http://www.lemonde.fr/societe/article/2015/06/25/la-loi-renseignement-definitivement-adoptee_4661553_3224.html)
+
+25 juin 2015. Par Franck Johannès
 
 [Trois associations déposent une QPC sur la loi de programmation militaire](http://www.lemonde.fr/pixels/article/2015/04/16/trois-associations-deposent-une-qpc-sur-la-loi-de-programmation-militaire_4616848_4408996.html)
 
