@@ -3,14 +3,18 @@
 - title: À propos
   url: /about/
 
-- title: Nos travaux
-  url: /travaux/
+- title: Dossiers
+  url: /dossiers/
 
 - title: Revue de Presse
   url: /rp/
 
-- title: English zone
-  url: /en/
-
 - title: Espace de travail
   url: /amateurs/
+
+- title: FR
+  url: /
+
+- title: EN
+  url: /en/
+
