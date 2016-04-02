@@ -8,3 +8,5 @@ comments: true
 ---
 
 Voilà, vous pouvez enfin retrouver [tous nos mémoires publiés](/dossiers/) ici.
+
+Nous dédions ce site à notre [aimé féal chevalier](/fealchevalier/).
