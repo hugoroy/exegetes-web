@@ -12,4 +12,4 @@ Ce site Web est hébérgé par l'association French Data Network (FDN),
 16 rue de Cachy, Amiens (80090) ([informations légales](http://www.fdn.fr/mentionslegales/)). 
 
 
-<small><a href="/fealchevalier/">Cadeau</a></small>
+<small style="color:transparent"><a href="/fealchevalier/">Cadeau</a></small>
