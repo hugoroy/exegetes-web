@@ -7,4 +7,4 @@ tags: [meta, site]
 comments: true
 ---
 
-Voilà, vous pouvez enfin retrouvez [tous nos mémoires publiés](/dossiers/) ici.
+Voilà, vous pouvez enfin retrouver [tous nos mémoires publiés](/dossiers/) ici.
