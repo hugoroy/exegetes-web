@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mentions légales
-modified: 2015-12-01
+modified: 2015-04-02
 ---
 
 

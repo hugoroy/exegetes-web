@@ -1,3 +1,9 @@
+---
+layout: page
+title: Féal chevalier
+modified: 2015-04-02
+---
+
 D'où venons-nous ?
 
 « *Aux exégètes amateurs qui comblent leurs lacunes par des préjugés et à ceux de mauvaise foi pour qui le soupçon tient lieu de raisonnement, il faut opposer une analyse dépassionnée du droit* » ([source](http://www.assemblee-nationale.fr/14/rapports/r2697.asp)).
