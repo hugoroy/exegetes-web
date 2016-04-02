@@ -24,4 +24,4 @@ Né d'un père militaire - Papy... -, tu as su rapidement t'élever au dessus du
 
 Face à une telle dévotion dépassionnée pour ce qui est juste, et face au soutien massif qu'elle avait fait naître, tant dans la population que parmi ceux qui savent, le Gouvernement n'eut guère le choix que de renoncer à toute ambition et te céder entièrement les reines de la Justice.
 
-Puisse ton ascension ne jamais prendre fin, Papa, et puisses-tu encore demain, comme à chaque jour, lorsque le doute et la fatigue nous appellera, ranimer notre cœur par ton sourire.
+Puisse ton ascension ne jamais prendre fin, Papa, et puisses-tu encore demain, comme à chaque jour, lorsque le doute et la fatigue nous appelleront, ranimer notre cœur par ton sourire.
