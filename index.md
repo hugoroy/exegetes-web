@@ -1,7 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Dossiers contentieux et recours des exégètes amateurs (FDN,
+La Quadrature du Net, Fédération FDN"
+tags:
+[fdn, fédération, la quadrature, droit, loi, renseignement, surveillance, filtrage, web, internet, censure]
 image:
   feature: banner.png
   #credit: WeGraphics
