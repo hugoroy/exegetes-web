@@ -36,8 +36,4 @@ text-align: right;
 #lang-nav {
 @extend #site-nav;
 }
-
-.nav {
-@extend #site-nav .nav;
-}
 }
