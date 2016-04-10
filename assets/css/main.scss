@@ -32,4 +32,12 @@ sitemap: false
 .right-navgation {
 @extend .top-navigation;
 text-align: right;
+
+#lang-nav {
+@extend #site-nav;
+}
+
+.nav {
+@extend #site-nav .nav;
+}
 }
