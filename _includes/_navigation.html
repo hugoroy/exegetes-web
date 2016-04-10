@@ -13,16 +13,18 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
-		    </ul>
-		    <ul id="lang-nav" class="language-nav">
-		        {% for link in site.data.lang %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-				{% endfor %}
+                <li>
+                    <ul id="lang-nav" class="language-nav">
+                        {% for link in site.data.lang %}
+                            {% if link.url contains 'http' %}
+                                {% assign domain = '' %}
+                                {% else %}
+                                {% assign domain = site.url %}
+                            {% endif %}
+                            <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
