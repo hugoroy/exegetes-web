@@ -7,20 +7,21 @@ modified: 2016-02-02
 
 ## Loi de programmation militaire (LPM) sur l'accès administratif aux données de connexion
 
-Mémoires et décisions : [Conseil d'État][lpmCEtat] / [Conseil constitutionnel][lpmCConst]
+Mémoires et décisions : [Conseil d'État][lpmCEtat] (terminé) /
+[Conseil constitutionnel][lpmCConst] (terminé)
 
 En collaboration avec Reporters Sans Frontière (tierce intervention)
 et Spinosi & Sureau SCP
 
 ## Abrogation de la rétention généralisée des données de connexion
 
-Mémoires : [demande d'abrogation][abrogationretentiondemande] / [Conseil d'État][abrogationretentionCEtat]
+Mémoires : [demande d'abrogation][abrogationretentiondemande] (terminé) / [Conseil d'État][abrogationretentionCEtat]
 
 En collaboration avec Privacy International et Center for Democracy and Technology (tierces interventions)
 
 ## Filtrage LOPPSI / Cazeneuve (blocage DNS et déréférencement)
 
-Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] / Plainte : [CNIL][filtragecazeneuveCnil]
+Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] (terminé) / Plainte : [CNIL][filtragecazeneuveCnil]
 
 En collaboration avec Article 19 (tierce intervention)
 
@@ -28,7 +29,7 @@ En collaboration avec Article 19 (tierce intervention)
 
 ### Amicus projet de loi renseignement
 
-Mémoires et décisions : [Conseil constitutionnel][amicusrenseignement]
+Mémoires et décisions : [Conseil constitutionnel][amicusrenseignement] (terminé)
 
 ### Surveillance secrète par la DGSE (2008-2015)
 
@@ -38,7 +39,7 @@ Mémoires et décisions : [Conseil d'État][secretdgseCEtat]
 
 ### Vérification CNCTR
 
-Mémoires : [CNCTR][verificationcnctrCnctr] / [Conseil d'État][verificationcnctrCEtat]
+Mémoires : [CNCTR][verificationcnctrCnctr]  (terminé)/ [Conseil d'État][verificationcnctrCEtat]
 
 
 ### Décrets
