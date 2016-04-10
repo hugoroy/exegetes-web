@@ -35,5 +35,5 @@ text-align: right;
 }
 
 #lang-nav {
-@extend #site-nav;
+@extend #site-nav !optional;
 }
