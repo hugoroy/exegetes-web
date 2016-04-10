@@ -13,8 +13,12 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
-                <li>
-                    <ul id="lang-nav" class="language-nav">
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+    <div class="right-navigation">
+      <nav role="navigation" id="lang-nav" class="nav">
+                    <ul>
                         {% for link in site.data.lang %}
                             {% if link.url contains 'http' %}
                                 {% assign domain = '' %}
@@ -24,8 +28,6 @@
                             <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
                         {% endfor %}
                     </ul>
-                </li>
-		    </ul>
-		</nav>
-	</div><!-- /.top-navigation -->
+      </nav>
+      </div>
 </div><!-- /.navigation-wrapper -->
