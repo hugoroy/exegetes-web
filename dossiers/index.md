@@ -4,6 +4,7 @@ title: Dossiers
 modified: 2016-02-10
 ---
 
+{% include _toc.html %}
 
 ## Loi de programmation militaire (LPM) sur l'accès administratif aux données de connexion
 
