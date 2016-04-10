@@ -20,7 +20,7 @@ En collaboration avec Privacy International et Center for Democracy and Technolo
 
 ## Filtrage LOPPSI / Cazeneuve (blocage DNS et déréférencement)
 
-Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat]
+Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] / Plainte : [CNIL][filtragecazeneuveCnil]
 
 En collaboration avec Article 19 (tierce intervention)
 
@@ -50,7 +50,8 @@ Mémoires : [Conseil d'État][renseignementCEtat]
 [abrogationretentiondemande]: /recours/abrogationretention/demande/
 [abrogationretentionCEtat]: /recours/abrogationretention/CEtat/
 [amicusrenseignement]: /recours/amicusrenseignement/
-[filtragecazeneuveCEtat]: /recours/filtragecazeneuveCEtat/
+[filtragecazeneuveCEtat]: /recours/filtragecazeneuve/CEtat/
+[filtragecazeneuveCnil]: /recours/filtragecazeneuve/Cnil/
 [lpmCEtat]: /recours/lpm/CEtat/
 [lpmCConst]: /recours/lpm/CConst/
 [renseignementCEtat]: /recours/renseignement/CEtat/
