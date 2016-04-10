@@ -24,7 +24,7 @@ Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] / Plainte 
 
 En collaboration avec Article 19 (tierce intervention)
 
-## Loi renseignement & surveillance internationale
+## Lois renseignement & surveillance internationale
 
 ### Amicus projet de loi renseignement
 
