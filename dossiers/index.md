@@ -6,6 +6,10 @@ modified: 2016-02-10
 
 {% include _toc.html %}
 
+
+Accéder à [tous les documents](/recours/)
+
+
 ## Loi de programmation militaire (LPM) sur l'accès administratif aux données de connexion
 
 Mémoires et décisions : [Conseil d'État][lpmCEtat] (terminé) /
@@ -153,7 +157,7 @@ Le décret fixe la procédure contentieuse concernant la mise en œuvre des tech
 
 
 
-
+------------
 
 
 [abrogationretentiondemande]: /recours/abrogationretention/demande/
@@ -170,6 +174,3 @@ Le décret fixe la procédure contentieuse concernant la mise en œuvre des tech
 [verificationcnctrCEtat]: /recours/verificationcnctr/CEtat/
 
 
-----------
-
-Accéder à [tous les documents](/recours/)
