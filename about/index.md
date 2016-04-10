@@ -27,9 +27,9 @@ des communications internationales, etc.)
 
 ## Pourquoi ce nom ?
 
-Lors des discussions à l'Assemblée nationale sur le projet de loi
+Lors des [discussions à l'Assemblée nationale](http://www.assemblee-nationale.fr/14/rapports/r2697.asp) sur le projet de loi
 relatif au renseignement, les opposants, nombreux, furent qualifiés
-d’« exégètes amateurs » par Jean-Jacques Urvoas, le député rapporteur.
+d’« exégètes amateurs » par [Jean-Jacques Urvoas](/fealchevalier/), le député rapporteur.
 Fidèlement à la tradition, nous avons détourné ce sobriquet pour le
 prendre à notre compte.
 
