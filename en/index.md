@@ -20,6 +20,9 @@ You can
 [learn more](https://www.mediapart.fr/en/journal/france/291015/web-activists-debugging-frances-surveillance-laws) (en)
 about us the media.
 
+You can also get an overview of our previous actions at [La Quadrature
+du Net's website](https://www.laquadrature.net/fr/recours#english).
+
 Feel free to get in touch with us especially to join our litigations,
 like Privacy International, Article 19 and the Center for Democracy and Technology.
 
