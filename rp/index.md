@@ -4,12 +4,8 @@ title: Revue de presse
 modified: 2016-02-02
 ---
 
+{% include _toc.html %}
 
-<section id="table-of-contents" class="toc">
-<div id="drawer" markdown="1">
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
 
 ## Le Figaro
 
