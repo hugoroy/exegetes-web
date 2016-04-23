@@ -538,6 +538,9 @@ $button-size: 1.5rem;
 			&:hover {
 				@include opacity(1);
 			}
+            &:visited {
+                color: darken($white, 20);
+            }
 		}
 		ul {
 			margin: 1px 0 0;
