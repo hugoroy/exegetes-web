@@ -537,6 +537,7 @@ $button-size: 1.5rem;
 			@include transition(opacity 0.2s ease-in-out);
 			&:hover {
 				@include opacity(1);
+                color: $white;
 			}
             &:visited {
                 color: darken($white, 20);
