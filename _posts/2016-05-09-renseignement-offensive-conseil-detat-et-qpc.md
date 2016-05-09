@@ -149,3 +149,7 @@ En dehors de cette QPC, dont les délais sont bornés, il faudra sans doute nous
 
 
 [eCommerce]: http://ec.europa.eu/internal_market/e-commerce/directive/index_fr.htm
+
+
+[avisCNCIS]: http://www.lemonde.fr/societe/article/2015/07/24/surveillance-des-avis-moins-suivis_4696992_3224.html
+
