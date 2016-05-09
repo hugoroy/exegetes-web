@@ -72,7 +72,7 @@ Comme  nous l'écrivons dans nos mémoires, « le GCHQ britannique ou le BND  a
 
 L'an  dernier, lors du débat parlementaire sur la loi renseignement,  les  boites noires ont beaucoup fait parler d'elles. Et à raison : les services de renseignement peuvent désormais contraindre les opérateurs   télécoms ou les hébergeurs à installer ces mouchards sur leurs   infrastructures pour scanner en temps réel l'ensemble du trafic, dans   l'espoir de déceler des « signaux faibles » d'activités terroristes.  Ces  boîtes noires supposent donc de passer à la moulinette les   communications de la quasi-totalité  de la population. 
 
-Là  encore, cette surveillance indiscriminée est  contraire à la  jurisprudence européenne. Mais cette disposition viole  également  l'esprit et la lettre d'une directive européenne de 2000 sur  la société  de l'information ([directive eCommerce[eCommerce]), laquelle  interdit  aux autorités nationales d'imposer aux opérateurs télécoms ou  aux  hébergeurs « une obligation générale de surveiller les informations   qu'ils transmettent ou stockent, ou une obligation générale de   rechercher activement des faits ou des circonstances révélant des   activités illicites ». 
+Là  encore, cette surveillance indiscriminée est  contraire à la  jurisprudence européenne. Mais cette disposition viole  également  l'esprit et la lettre d'une directive européenne de 2000 sur  la société  de l'information ([directive eCommerce][eCommerce]), laquelle  interdit  aux autorités nationales d'imposer aux opérateurs télécoms ou  aux  hébergeurs « une obligation générale de surveiller les informations   qu'ils transmettent ou stockent, ou une obligation générale de   rechercher activement des faits ou des circonstances révélant des   activités illicites ». 
 
 ## Contrôle de la CNCTR
 
@@ -148,4 +148,4 @@ En dehors de cette QPC, dont les délais sont bornés, il faudra sans doute nous
 [811-5]: https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=34D4B5EEDA034EEBA9EA2DF51F2FA5F2.tpdila18v_1?idArticle=LEGIARTI000030937708&cidTexte=LEGITEXT000025503132&dateTexte=20160505&categorieLien=id&oldAction=&nbResultRech=
 
 
-
+[eCommerce]: http://ec.europa.eu/internal_market/e-commerce/directive/index_fr.htm
