@@ -13,7 +13,7 @@ En  juin 2015, Le Figaro titrait : les opposants à la loi renseignement  tiren
 
 [^figaro]: Source : [Le Figaro, 23 juin 2015](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php)
 
-Ce  vendredi, avec l'aide du [cabinet Spinosi--Sureau][Spino], nous avons  déposé plusieurs écritures qui détaillent l'ensemble de nos arguments  contre  la surveillance à la française. Trois ans après le début des   révélations Snowden, alors que l'État de droit plie chaque mois un peu   plus sous les coups de butoir de l'État policier, devant cette faillite politique, nous nous tournons vers les juges pour faire valoir nos droits fondamentaux.
+Ce  vendredi, avec l'aide du [cabinet Spinosi--Sureau][Spino], nous avons  déposé plusieurs écritures qui détaillent l'ensemble de nos arguments  contre  la surveillance à la française. Trois ans après le début des   révélations Snowden, alors que l'État de droit plie chaque mois un peu   plus sous les coups de boutoir de l'État policier, devant cette faillite politique, nous nous tournons vers les juges pour faire valoir nos droits fondamentaux.
 
 # Sur quoi portent les recours ?
 
