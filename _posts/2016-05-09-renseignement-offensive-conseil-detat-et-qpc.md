@@ -156,7 +156,7 @@ En dehors de cette QPC, dont les délais sont bornés, il faudra sans doute nous
 
 [spino]: http://www.spinosi-sureau.fr/
 
-[amicus]: https://exegetes.eu.org/recours/amicusrenseignement/2015-06-25-Amicus-Curiae-Version-Greffe-CC.pdf
+[amicus]:  http://x.fdn.fr/amicus
 
 [Schrems]: http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=fr&mode=lst&dir=&occ=first&part=1&cid=1094238
 
