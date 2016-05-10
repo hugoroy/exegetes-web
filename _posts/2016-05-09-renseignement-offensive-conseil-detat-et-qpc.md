@@ -113,11 +113,32 @@ Tout d’abord, la notion de *« transmissions empruntant la voie hertzienne �
 - par une balise GPS ;
 - entre une puce NFC (carte bleue, badge quelconque...) et sa borne.
 
-Ainsi, ce sont tous les *« pouvoirs publics »* – tous les services de l’État (ministres, préfets, DGSE, DGSI,   autorités indépendantes, etc.) – qui peuvent recourir à n’importe  quelle  technique permettant *« la surveillance et le contrôle »* de ces transmissions hertziennes, pour *« la défense des intérêts nationaux »* – qui, à défaut d’être définis par la loi, comprennent au moins et dépassent sûrement les *« intérêts fondamentaux de la Nation »* définis par la loi renseignement.
+Ainsi, ce sont tous les *« pouvoirs publics »* – tous les services de
+l’État (ministres, préfets, DGSE, DGSI,   autorités indépendantes,
+etc.) – qui peuvent recourir à n’importe  quelle  technique permettant
+*« la surveillance et le contrôle »* de ces transmissions hertziennes,
+pour *« la défense des intérêts nationaux »*.
+<!-- – qui, à défaut d’être définis par la loi, comprennent au moins et dépassent sûrement les *« intérêts fondamentaux de la Nation »* définis par la loi renseignement. -->
 
-Enfin, et surtout, ces techniques *« ne sont pas soumises aux dispositions »* du livre VIII du code de la sécurité intérieur qui, étant issu de la  loi renseignement, encadre toute l’activité de surveillance en France.  Dès lors, cette surveillance hertzienne se trouve libérée de tout cadre contraignant.
+Enfin, et surtout, ces techniques *« ne sont pas soumises aux
+dispositions »* du livre VIII du code de la sécurité intérieur qui,
+étant issu de la  loi renseignement, encadre toute l’activité de
+surveillance en France.  Dès lors, cette surveillance hertzienne se
+trouve libérée de tout cadre contraignant.
 
-Les communications téléphoniques d’une personne doivent-elles être détruites un certain temps après leur interception ? Non. Une autorité indépendante vérifie-t-elle que les e-mails envoyés depuis un  smartphone  ont bien été interceptés pour une raison légitime ? Non.  Quelles voies  de recours sont ouvertes aux personnes  surveillées ?  Rien n’est dit à ce sujet. Et rien  non plus n’interdit  que, au nom d’un « intérêt national » quelconque,  les communications  hertziennes de l’ensemble de la population soient  interceptées,  stockées et traitées pour des finalités indiscernables et échappant à tout  contrôle démocratique.
+Ainsi, le législateur laisse la porte ouverte à toutes sortes de
+pratiques de surveillance par les services.
+
+Les communications téléphoniques d’une personne doivent-elles être
+détruites un certain temps après leur interception ? Une autorité
+indépendante vérifie-t-elle que les e-mails envoyés depuis un
+smartphone  ont bien été interceptés pour une raison légitime ?
+Quelles voies  de recours sont ouvertes aux personnes  surveillées ?
+Rien n’est dit à ce sujet. Et rien  non plus n’interdit  que, au nom
+d’un « intérêt national »,  des communications  hertziennes
+soient  interceptées,  stockées et traitées <!--pour des finalités -->
+<!--indiscernables et échappant à tout  contrôle démocratiq--> en
+dehors du cadre de la loi renseignement.
 
 Ainsi, toutes les communications sans fil sont de droit exclues du champ des --- toujours insuffisantes --- procédures de contrôle instituées par les   techniques de renseignement. En somme, tandis que le Gouvernement prétendait encadrer les techniques de renseignement, il ne le faisait que sur quelques techniques de communication intégralement filaires. Ce   qui est d'autant plus choquant est de savoir que pendant les débats   législatifs sur la loi renseignement, notre attention a notamment été   attirée sur les IMSI catchers alors même que ces techniques de renseignement ne sont par essence pas couvertes par la loi  renseignement, puisque s'appliquant exclusivement à de la communication  hertzienne.
 
