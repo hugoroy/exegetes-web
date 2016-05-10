@@ -134,13 +134,13 @@ détruites un certain temps après leur interception ? Une autorité
 indépendante vérifie-t-elle que les e-mails envoyés depuis un
 smartphone  ont bien été interceptés pour une raison légitime ?
 Quelles voies  de recours sont ouvertes aux personnes  surveillées ?
-Rien n’est dit à ce sujet. Et rien  non plus n’interdit  que, au nom
+Rien n’est dit à ce sujet. <!--Et rien  non plus n’interdit  que, au nom
 d’un « intérêt national »,  des communications  hertziennes
-soient  interceptées,  stockées et traitées <!--pour des finalités -->
-<!--indiscernables et échappant à tout  contrôle démocratiq--> en
-dehors du cadre de la loi renseignement.
+soient  interceptées,  stockées et traitées--> <!--pour des finalités -->
+<!--indiscernables et échappant à tout  contrôle démocratiq--> <!--en
+dehors du cadre de la loi renseignement.-->
 
-Ainsi, toutes les communications sans fil sont de droit exclues du champ des --- toujours insuffisantes --- procédures de contrôle instituées par les   techniques de renseignement. En somme, tandis que le Gouvernement prétendait encadrer les techniques de renseignement, il ne le faisait que sur quelques techniques de communication intégralement filaires. Ce   qui est d'autant plus choquant est de savoir que pendant les débats   législatifs sur la loi renseignement, notre attention a notamment été   attirée sur les IMSI catchers alors même que ces techniques de renseignement ne sont par essence pas couvertes par la loi  renseignement, puisque s'appliquant exclusivement à de la communication  hertzienne.
+Ainsi, toutes les communications sans fil sont de droit exclues du champ des --- toujours insuffisantes --- procédures de contrôle instituées pour les   techniques de renseignement. En somme, tandis que le Gouvernement prétendait encadrer les techniques de renseignement, il ne le faisait que sur quelques techniques de communication intégralement filaires. Ce   qui est d'autant plus choquant est de savoir que pendant les débats   législatifs sur la loi renseignement, notre attention a notamment été   attirée sur les IMSI catchers alors même que ces techniques de renseignement ne sont par essence pas couvertes par la loi  renseignement, puisque s'appliquant exclusivement à de la communication  hertzienne.
 
 Face à une telle absence de cadre, nous ne pouvons que nous attendre à ce que le Conseil  constitutionnel suive sa propre jurisprudence et censure cette  disposition pour incompétence négative, tel qu'il l'avait alors fait, examinant la loi renseignement, pour censurer les dispositions feignant encadrer la surveillance internationale.
 
