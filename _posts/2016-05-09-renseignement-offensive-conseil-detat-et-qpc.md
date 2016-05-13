@@ -13,7 +13,7 @@ En  juin 2015, Le Figaro titrait : les opposants à la loi renseignement  tiren
 
 [^figaro]: Source : [Le Figaro, 23 juin 2015](http://www.lefigaro.fr/secteur/high-tech/2015/06/23/32001-20150623ARTFIG00268-loi-renseignement-les-opposants-tirent-leur-derniere-cartouche.php)
 
-Ce  vendredi, avec l'aide du [cabinet Spinosi--Sureau][Spino], nous avons  déposé plusieurs écritures qui détaillent l'ensemble de nos arguments  contre  la surveillance à la française. Trois ans après le début des   révélations Snowden, alors que l'État de droit plie chaque mois un peu   plus sous les coups de butoir de l'État policier, devant cette faillite politique, nous nous tournons vers les juges pour faire valoir nos droits fondamentaux.
+Ce  vendredi, avec l'aide du [cabinet Spinosi--Sureau][Spino], nous avons  déposé plusieurs écritures qui détaillent l'ensemble de nos arguments  contre  la surveillance à la française. Trois ans après le début des   révélations Snowden, alors que l'État de droit plie chaque mois un peu   plus sous les coups de boutoir de l'État policier, devant cette faillite politique, nous nous tournons vers les juges pour faire valoir nos droits fondamentaux.
 
 # Sur quoi portent les recours ?
 
@@ -43,7 +43,7 @@ L'ensemble de nos arguments peuvent être consultés dans [nos écritures][dossi
 
 ## Finalités
 
-C'était  déjà l'un des arguments soulevés dans le [mémoire en « porte  étroite »][amicus] que nous avions déposé devant le Conseil  constitutionnel  l'été dernier : la loi renseignement autorise les  services à espionner  la population pour tout un tas de motifs pas suffisamment restreints ni assez précis (les intérêts majeurs de sa politique  étrangère ;  l'exécution de ses engagements européens et internationaux ;  ses  intérêts économiques, industriels et scientifiques majeurs ; la prévention de l'organisation de manifestation non déclarée ou ayant  fait  l'objet d'une déclaration incomplète ; ou encore la prévention de   l’acquisition ou de l'emploie de stupéfiants à fins de consommation   personnelle). 
+C'était  déjà l'un des arguments soulevés dans le [mémoire en « porte  étroite »][amicus] que nous avions déposé devant le Conseil  constitutionnel  l'été dernier : la loi renseignement autorise les  services à espionner  la population pour tout un tas de motifs pas suffisamment restreints ni assez précis (les intérêts majeurs de sa politique  étrangère ;  l'exécution de ses engagements européens et internationaux ;  ses  intérêts économiques, industriels et scientifiques majeurs ; la prévention de l'organisation de manifestation non déclarée ou ayant  fait  l'objet d'une déclaration incomplète ; ou encore la prévention de   l’acquisition ou de l'emploi de stupéfiants à fins de consommation   personnelle). 
 
 S'agissant  de mesures de surveillance secrètes, cette  imprécision est extrêmement  préoccupante et cela nous semble aller directement à  l'encontre du respect de la Charte, qui  exige notamment des finalités *suffisamment « précises, strictement restreintes et susceptibles de justifier l’ingérence »*.
 
