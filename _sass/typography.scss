@@ -147,7 +147,10 @@ p {
     hyphens: auto;
 
     & + p {
-        margin-top: -($indent-var);
+        @if $paragraph-indent == true {
+            margin-top: -($indent-var);
+        }
+        margin-top: 0;
     }
 }
 
