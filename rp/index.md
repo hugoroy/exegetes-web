@@ -15,6 +15,10 @@ modified: 2016-02-02
 
 ## Le Monde
 
+[Des associations demandent une révision de la loi renseignement](http://www.lemonde.fr/pixels/article/2016/05/10/nouvelle-tentative-de-renvoi-de-la-loi-renseignement-au-conseil-constitutionnel_4916994_4408996.html)
+
+10 mai 2016. Par Martin Untersinger
+
 [Inquiétude sur les données de connexion](http://www.lemonde.fr/societe/article/2015/07/22/inquietude-sur-les-donnees-de-connexion_4693599_3224.html)
 
 22 juillet 2015. Par Franck Johannès
@@ -42,6 +46,10 @@ Français sous surveillance.
 
 
 ## Next Inpact
+
+[Avalanche de procédures contre la loi Renseignement](http://www.nextinpact.com/news/99778-avalanche-procedures-contre-loi-renseignement.htm)
+
+10 mai 2016. Par Marc Rees.
 
 [Loi Renseignement : imbroglio sur le statut de l'URL](http://www.nextinpact.com/news/98638-loi-renseignement-imbroglio-sur-statut-url.htm)
 
