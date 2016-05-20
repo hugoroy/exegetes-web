@@ -76,7 +76,7 @@ Récemment, le gouvernement français est intervenu devant la Cour de
 justice de l’Union européenne pour défendre le principe de la rétention
 généralisée des données de connexion. Pendant son intervention, le
 gouvernement a poussé sa logique encore plus loin en [allant carrément
-dans l’absurde]) : en gardant des données sur tout le monde, il estime
+dans l’absurde] : en gardant des données sur tout le monde, il estime
 qu’on peut aussi s’en servir pour les droits de la défense, pour
 permettre au suspect de prouver son innoncence ! En droit, c’est le
 monde à l’envers : la fin de la présomption d’innocence. On ne doit plus
@@ -167,7 +167,7 @@ Pourquoi avons-nous fait ce mémoire sur ce point si précis ? Pour le
 comprendre, il faut remonter à notre précédente procédure, celle contre
 le décret d’application de l’article 20 de la loi de programmation
 militaire, dite LPM (dont on retrouve des bouts dans la loi
-renseignement, intégré au chapitre *accès aux données* de connexion du
+renseignement, intégrés au chapitre *accès aux données* de connexion du
 code de la sécurité intérieure).
 
 Bien qu’il s’agissait d’accès aux données par les services de
