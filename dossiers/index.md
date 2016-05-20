@@ -15,9 +15,9 @@ Accéder à [tous les documents](/recours/)
  - [Lois renseignement & surveillance internationale][renseignement]
 
 
-[abrogationretention]: /dossiers/abrogationretention/
-[filtragecazeneuve]: /dossiers/filtragecazeneuve/
-[lpm]: /dossiers/lpm/
-[renseignement]: /dossiers/renseignement/
+[abrogationretention]: /dossiers/abrogationretention.html
+[filtragecazeneuve]: /dossiers/filtragecazeneuve.html
+[lpm]: /dossiers/lpm.html
+[renseignement]: /dossiers/renseignement.html
 
 
