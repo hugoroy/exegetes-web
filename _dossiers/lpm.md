@@ -1,4 +1,5 @@
 ---
+layout: page
 collection: dossiers
 title: "Loi de programmation militaire (LPM) sur l'accès aux données
 de connexion"
