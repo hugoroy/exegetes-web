@@ -4,6 +4,7 @@ collection: dossiers
 title: "Filtrage LOPPSI / Cazeneuve (blocage DNS et déréférencement)"
 ---
 
+{% include _toc.html %}
 
 Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] (terminé) / Plainte : [CNIL][filtragecazeneuveCnil]
 

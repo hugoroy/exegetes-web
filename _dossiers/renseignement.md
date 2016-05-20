@@ -4,6 +4,8 @@ collection: dossiers
 title: "Lois renseignement & surveillance internationale"
 ---
 
+{% include _toc.html %}
+
 ### Amicus projet de loi renseignement
 
 Mémoires et décisions : [Conseil constitutionnel][amicusrenseignement] (terminé)
