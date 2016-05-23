@@ -39,6 +39,9 @@ Français sous surveillance.
 
 ## Next Inpact
 
+[Les Exégètes accentuent leur pression sur l'obligation de rétention des données](http://www.nextinpact.com/news/99939-les-exegetes-accentuent-leur-pression-sur-obligation-retention-donnees.htm)
+23 mai 2016. Par Marc Rees.
+
 [Avalanche de procédures contre la loi Renseignement](http://www.nextinpact.com/news/99778-avalanche-procedures-contre-loi-renseignement.htm)  
 10 mai 2016. Par Marc Rees.
 
