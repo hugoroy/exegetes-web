@@ -9,11 +9,12 @@ tags: ["affaire:secretdgse"]
 Deux procédures parallèles ont été initiées contre la surveillance
 secrète de la DGSE dévoilée par un article de
 [L'Obs](http://tempsreel.nouvelobs.com/societe/20150625.OBS1569/exclusif-comment-la-france-ecoute-aussi-le-monde.html)
-de juillet 2015. L'article révèle un décret non publié et demeuré
-secret qui autoriserait la captation massive de communications par les
-services de renseignement extérieur des flux internet en provenance ou
-à destination du territoire français.
+de juillet 2015. L'article révèle la captation massive de
+communications par les services de renseignement extérieur des flux
+internet en provenance ou à destination du territoire français.
 
+
+D'après cet article, ce système de surveillance de la DGSE aurait été autorisé par un « décret secret ».
 
 La **première procédure** est une procédure d'urgence: un
 référé-suspension au Conseil d'État. 

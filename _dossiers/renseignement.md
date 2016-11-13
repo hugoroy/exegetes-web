@@ -71,7 +71,7 @@ Nos arguments se fondent principalement sur la Charte des droits fondamentaux de
 Documents classés par recours (tous décrets confondus) :
 
  - [Amicus au Conseil constitutionnel][amicusrenseignement] (terminé)
- - [Conseil d'État (recours en excès de pouvoir contre les décrets d'application et visant la loi renseignement et la loi sur la surveillance internationale][renseignementCEtat] (en cours)
+ - [Conseil d'État (recours en excès de pouvoir contre les décrets d'application et visant la loi renseignement et la loi sur la surveillance internationale)][renseignementCEtat] **(en cours)**
  - [QPC au Conseil constitutionnel sur la surveillance hertzienne][renseignementCConst] (terminée)
 
 
