@@ -21,16 +21,16 @@ modified: 2016-11-13
     [Système de surveillance international et secret de la DGSE][secretdgse] (En cours devant le Conseil d'État)
 
   - depuis août 2016:
-    [Abrogation de l'extension de la surveillance par l'état d'urgence][abrogurgence] (Refus implicite d'abroger... en préparation)
+    [Abrogation de l'extension de la surveillance par l'état d'urgence][#abrogurgence] (Refus implicite d'abroger... en préparation)
 
   - depuis octobre 2016:
-    [Intervention - Saisies informatiques sous l'état d'urgence][saisie_info] (En cours devant le Conseil constitutionnel)
+    [Intervention - Saisies informatiques sous l'état d'urgence][#saisie_info] (En cours devant le Conseil constitutionnel)
 
   - depuis octobre 2016:
-    [Annulation de la décision Privacy Shield de la Commission européenne][privacyshield] (En cours devant le Tribunal de l'Union européenne)
+    [Annulation de la décision Privacy Shield de la Commission européenne][#privacyshield] (En cours devant le Tribunal de l'Union européenne)
 
   - depuis novembre 2016:
-    [Décret du fichier TES (base de données biométriques des détenteurs de carte nationale d'identité)][fichiertes] (En préparation)
+    [Décret du fichier TES (base de données biométriques des détenteurs de carte nationale d'identité)][#fichiertes] (En préparation)
 
 
 [lpm]: /dossiers/lpm.html
