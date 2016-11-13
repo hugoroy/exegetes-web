@@ -2,6 +2,7 @@
 layout: page
 collection: dossiers
 title: "Loi de programmation militaire (LPM) sur l'accès aux données de connexion"
+tags: ["affaire:lpm"]
 ---
 
 
@@ -9,7 +10,7 @@ L'[article 20](http://www.legifrance.gouv.fr/eli/loi/2013/12/18/DEFX1317084L/jo#
 de la loi de programmation militaire (dite LPM), promulguée le 13
 décembre 2013, prévoit un droit d'accès aux administrations (notamment
 le ministère de la Défense, mais également le ministère de l'Intérieur
-ou Bercy) d'avoir accès à des « informations ou documents » traités
+ou Bercy) concernant les « informations ou documents » traités
 par les hébergeurs ou par les opérateurs télécoms ou les fournisseurs
 d'accès à Internet (FAI). Les finalités nécessaires à cette
 communication sont larges et souvent imprécises (« sécurité
@@ -24,14 +25,14 @@ par un [recours en excès de pouvoir devant le Conseil
 d'État][lpmCEtat].
 
 Nous avons soulevé lors de cette procédure une « question prioritaire
-de constitutionnalité » que le Conseil d'État a transmise par décision
+de constitutionnalité » (QPC) que le Conseil d'État a transmise par décision
 du [5 juin 2015](https://exegetes.eu.org/recours/lpm/CEtat/2015-06-05-recours_LPM_confirmation_dossier.pdf).
 
 Dans le même temps, le parlement votait la loi relative au
 [renseignement]... et étendait ainsi les dispositions que nous
 contestions.
 
-Le 24 juillet, soit le lendemain de sa décision sur le loi
+Le 24 juillet, soit le lendemain de sa décision sur la loi
 renseignement, le Conseil constitutionnel [nous
 rejetait](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-478-qpc/decision-n-2015-478-qpc-du-24-juillet-2015.144165.html)
 (mais dans le même temps restreignait la notion d'« informations ou
@@ -57,7 +58,7 @@ motivation du Conseil d'État sur le refus du renvoi préjudiciel.
 
 ------
 
-Procédures :
+Documents classés par procédure :
 
  - [Conseil d'État][lpmCEtat] (terminée)
  - [Conseil constitutionnel][lpmCConst] (terminée)
@@ -65,21 +66,6 @@ Procédures :
 
 Procédures devant les juridictions françaises : en collaboration avec
 Reporters Sans Frontière (tierce intervention) et Spinosi & Sureau SCP
-
-
------
-
-Voir les explications :
-
- -  sur le site de [LQDN](https://www.laquadrature.net/fr/decret-lpm-la-quadrature-du-net-depose-un-recours-devant-le-conseil-detat)
- -  sur le [blog de FDN](http://blog.fdn.fr/?post/2015/04/01/Publication-du-recours-contre-le-decret-LPM)
-
-Concernant la QPC :
-
- - Annonce du dépot par [FDN](http://blog.fdn.fr/?post/2015/04/15/Depot-d-une-QPC-sur-l-article-20-de-la-LPM)
- - Réaction à la transmission par [LQDN](https://www.laquadrature.net/fr/premiere-victoire-pour-les-citoyens-contre-la-surveillance-la-loi-de-programmation-militaire-devant)
- - Réaction à la décision QPC par [LQDN](https://www.laquadrature.net/fr/honte-sur-la-france-le-conseil-constitutionnel-valide-largement-la-loi-renseignement)
-
 
 
 
@@ -119,4 +105,19 @@ Calendrier:
  -  28 juin 2016 : saisine de la CEDH
  -  12 août 2016 : fin du délai pour le recours CEDH
  -  25 octobre 2016 : réception des « étiquettes » de la CEDH pour FDN et LQDN
+
+
+
+-----
+
+Liens et billets de blog:
+
+ -  sur le site de [LQDN](https://www.laquadrature.net/fr/decret-lpm-la-quadrature-du-net-depose-un-recours-devant-le-conseil-detat)
+ -  sur le [blog de FDN](http://blog.fdn.fr/?post/2015/04/01/Publication-du-recours-contre-le-decret-LPM)
+
+Concernant la QPC :
+
+ - Annonce du dépot par [FDN](http://blog.fdn.fr/?post/2015/04/15/Depot-d-une-QPC-sur-l-article-20-de-la-LPM)
+ - Réaction à la transmission par [LQDN](https://www.laquadrature.net/fr/premiere-victoire-pour-les-citoyens-contre-la-surveillance-la-loi-de-programmation-militaire-devant)
+ - Réaction à la décision QPC par [LQDN](https://www.laquadrature.net/fr/honte-sur-la-france-le-conseil-constitutionnel-valide-largement-la-loi-renseignement)
 
