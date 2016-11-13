@@ -58,7 +58,7 @@ motivation du Conseil d'État sur le refus du renvoi préjudiciel.
 
 ------
 
-Documents classés par procédure :
+Documents classés par recours :
 
  - [Conseil d'État][lpmCEtat] (terminée)
  - [Conseil constitutionnel][lpmCConst] (terminée)
