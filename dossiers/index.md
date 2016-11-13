@@ -34,13 +34,13 @@ modified: 2016-11-13
 
 
 [lpm]: /dossiers/lpm.html
-[abrogationretention]: /dossiers/abrogationRetention.html
-[filtragecazeneuve]: /dossiers/filtrageCazeneuve.html
+[abrogationretention]: /dossiers/abrogationretention.html
+[filtragecazeneuve]: /dossiers/filtragecazeneuve.html
 [renseignement]: /dossiers/renseignement.html
-[secretdgse]: /dossiers/secretDgse.html
-[abrogurgence]: /dossiers/abrogUrgence.html
+[secretdgse]: /dossiers/secretdgse.html
+[abrogurgence]: /dossiers/abrogurgence.html
 [saisie_info]: /dossiers/saisie_info.html
-[privacyshield]: /dossiers/privacyShield.html
+[privacyshield]: /dossiers/privacyshield.html
 [fichiertes]: /dossiers/fichierTes.html
 
 
