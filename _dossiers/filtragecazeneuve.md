@@ -6,9 +6,14 @@ title: "Filtrage LOPPSI / Cazeneuve (blocage DNS et déréférencement)"
 
 {% include _toc.html %}
 
-Mémoires et décisions : [Conseil d'État][filtragecazeneuveCEtat] (terminé) / Plainte : [CNIL][filtragecazeneuveCnil]
+Procédure et plainte :
 
-En collaboration avec Article 19 (tierce intervention)
+- [Conseil d'État][filtragecazeneuveCEtat] (terminée)
+- [Plainte à la CNIL][filtragecazeneuveCnil] **(en cours)**
+
+<!-- - [Cour européenne des droits de l'homme][filtragecazeneuveCedh] **(en cours)** -->
+
+En collaboration avec Article 19 (tierce intervention) pour la procédure au COnseil d'État.
 
 -------
 
@@ -29,6 +34,7 @@ Il s'agit d'une procédure initiée par La Quadrature du Net seule. La liste des
 [filtragecazeneuveCEtat]: /recours/filtragecazeneuve/CEtat/
 [filtragecazeneuveCnil]: /recours/filtragecazeneuve/Cnil/
 [filtragecazeneuveOclctic]: /recours/filtragecazeneuve/Oclctic/
+[filtragecazeneuveCedh]: /recours/filtragecazeneuve/Cedh/
 [lpmCEtat]: /recours/lpm/CEtat/
 [lpmCConst]: /recours/lpm/CConst/
 [renseignementCEtat]: /recours/renseignement/CEtat/

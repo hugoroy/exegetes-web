@@ -5,7 +5,10 @@ title: "Abrogation de la rétention généralisée des données de connexion"
 ---
 
 
-Mémoires : [demande d'abrogation][abrogationretentiondemande] (terminé) / [Conseil d'État][abrogationretentionCEtat]
+Recours et procédures :
+
+- [(Recours grâcieux) demande d'abrogation au gouvernement][abrogationretentiondemande] (terminé)
+- [Conseil d'État][abrogationretentionCEtat] **(en cours)**
 
 En collaboration avec Privacy International et Center for Democracy and Technology (tierces interventions)
 
