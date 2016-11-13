@@ -46,4 +46,4 @@ modified: 2016-11-13
 
 
 
-Accéder aux [mémoires publiés classés par recours](/recours/).
+Accéder aux [mémoires publiés classés par affaire et par recours](/recours/).
