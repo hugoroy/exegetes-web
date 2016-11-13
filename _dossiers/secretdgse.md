@@ -1,7 +1,7 @@
 ---
 layout: page
 collection: dossiers
-title: "Lois renseignement, surveillance hertzienne & surveillance internationale"
+title: "Système de surveillance secret de la DGSE"
 tags: ["affaire:secretdgse"]
 ---
 
