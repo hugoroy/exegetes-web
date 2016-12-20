@@ -31,7 +31,7 @@ Il s'agit d'une procédure initiée par La Quadrature du Net seule. La liste des
 [abrogationretentiondemande]: /recours/abrogationretention/demande/
 [abrogationretentionCEtat]: /recours/abrogationretention/CEtat/
 [amicusrenseignement]: /recours/amicusrenseignement/
-[filtragecazeneuveCEtat]: /recours/filtragecazeneuve/CEtat/
+[filtragecazeneuveCEtat]: /recours/filtragecazeneuve/CEtat-Décret/
 [filtragecazeneuveCnil]: /recours/filtragecazeneuve/Cnil/
 [filtragecazeneuveOclctic]: /recours/filtragecazeneuve/Oclctic/
 [filtragecazeneuveCedh]: /recours/filtragecazeneuve/Cedh/
