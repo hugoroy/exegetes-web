@@ -11,7 +11,7 @@ modified: 2016-11-13
   - depuis mai 2015:
     [Abrogation de la rétention généralisée des données de connexion][abrogationretention] (En cours devant le Conseil d'État)
 
-  - depuis mars 2015:
+  - depuis mars 2015 & depuis décembre 2016 (suite à l'affaire « #OrangeFail »)
     [Filtrage LOPPSI / Cazeneuve (blocage DNS et déréférencement)][filtragecazeneuve] (En cours...)
 
   - depuis juin 2015:
@@ -23,7 +23,7 @@ modified: 2016-11-13
     [Système de surveillance international et secret de la DGSE][secretdgse] (En cours devant le Conseil d'État)
 
   - depuis août 2016:
-    [Abrogation de l'extension de la surveillance par l'état d'urgence][#abrogurgence] (Refus implicite d'abroger... en préparation)
+    [Abrogation de l'extension de la surveillance par l'état d'urgence][#abrogurgence] (En cours devant le Conseil d'État)
 
   - depuis octobre 2016:
     [Intervention - Saisies informatiques sous l'état d'urgence][perquisitionsnumeriques] (En cours devant le Conseil constitutionnel)
