@@ -10,7 +10,7 @@ Vous pouvez, au choix, contribuer à cette consultation :
     
 - en contribuant directement et publiquement [sur le pad][pad] ci-dessous,
 - en nous adressant par email vos commentaires ou vos contributions sur le fichier : [docx], [odt]  ou [pdf] 
-à l'adresse email consultation arobase exegetes.eu.org
+à l'adresse email : \< consultation arobase exegetes.eu.org \>
 
 **[Pad en plein écran][pad]**
 
