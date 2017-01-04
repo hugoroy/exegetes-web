@@ -1,3 +1,8 @@
+---
+layout: page
+collection: dossiers
+title: "Fichier TES"
+---
 
 Pour contribuer à la [consultation lancée par les exégètes][lienannonce] sur le projet de mémoire complémentaire au Conseil d'Etat dans le cadre du recours en excès de pouvoir contre le fichier TES, merci de nous faire part de vos retours d'ici le 31 janvier 2017.
 
