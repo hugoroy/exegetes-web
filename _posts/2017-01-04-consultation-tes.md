@@ -43,13 +43,6 @@ En l'état, notre projet de mémoire ampliatif a encore besoin d'être étoffé 
     Toute contribution nous permettant de documenter avec force et rigueur cette réalité est absolument bienvenue ; tout article de recherche ou faisant autorité serait très fortement apprécié.
 
 
-    <!--
-    2. Démontrer que la photo numérique du visage constitue une donnée biométrique compte-tenu de l'évolution de la technologie de reconnaissance faciale
-
-    Il ne me semble pas que ce point fasse débat : le CE reconnaît très bien dans son avis sur le décret TES que les photo sont des données biométriques.
-    Mais je pense voir pourquoi tu fais la distinction : notre argument contre l'accès des services au fichier ne tient que pour les photo et pas pour les empruntes. Mais cette distinction ne ressort pas du titre que tu propose. Je propose donc cette reformulation
-    -->
-
 2. Rappeler que la photo numérique du visage constitue une donnée biométrique, compte-tenu de l'évolution de la technologie de reconnaissance faciale, et doit donc bénéficier des mêmes garanties que les empreintes digitales.
 
     Le décret prévoit que les services de police et de renseignement peuvent utilisés les photo contenues dans le fichier TES, alors qu'ils ne le peuvent pas s'agissant des empreintes digitales. Cette différenciation est parfaitement injustifiée.
