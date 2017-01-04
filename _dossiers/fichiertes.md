@@ -12,9 +12,10 @@ Vous pouvez, au choix, contribuer à cette consultation :
 - en nous adressant par email vos commentaires ou vos contributions sur le fichier : [docx] ou [odt] 
 à l'adresse email consultation arobase exegetes.eu.org
 
-<iframe src="https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif" style="max-width: 900px;"></iframe>
+<iframe src="https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif" style="width: 100%; height: 100%; min-height: 600px; max-width: 900px;"></iframe>
 
-[docx]: https://exegetes.eu.org/dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.docx
-[odt]: https://exegetes.eu.org/dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.odt
+[docx]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.docx
+[odt]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.odt
+[pdf]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.pdf
 
 [lienannonce]: https://exegetes.eu.org/consultation-tes/
