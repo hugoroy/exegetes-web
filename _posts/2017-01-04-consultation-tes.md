@@ -31,7 +31,7 @@ Nous étudions depuis quelques semaines les différents angles d'attaque contre 
 
 Cette requête introductive d'instance est dite « sommaire » car elle a simplement pour objectif d'introduire le recours en excès de pouvoir dans les délais impartis (deux mois à compter de la publication du décret attaqué au journal officiel). Cette requête annonce, dès sa première page, notre intention de formuler l'ensemble de nos arguments dans un mémoire complémentaire (ou mémoire ampliatif pour les puristes). Cela nous permet de bénéficier d'un délai supplémentaire de 3 mois en application de l'article [R611-22 du code de justice administrative][r61122] (code fixant les règles de procédure applicables notamment devant le Conseil d'État).
 
-[requetesommaire]: https://exegetes.eu.org/recours/fichiertes/CEtat/2016-12-26-Tes-REP-Intro-Sommaire.pdf.pdf
+[requetesommaire]: https://exegetes.eu.org/recours/fichiertes/CEtat/2016-12-26-Tes-REP-Intro-Sommaire.pdf
 [r61122]: https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006450077&cidTexte=LEGITEXT000006070933&dateTexte=20161223
 
 Nous allons désormais nous atteler à la rédaction de ce mémoire complémentaire et nous sollicitons vos contributions pour insufler un débat collectif dans un processus réglementaire qui en a cruellement manqué, ainsi que pour renforcer les arguments apportés sur ce dossier épineux. Que vous soyez juriste, informaticien ou autre, vous pouvez nous aider. Si vous avez des remarques sur le fond ou sur la forme, si certains passages sont incompréhensibles, si vous repérez des erreurs, n'hésitez pas à nous en faire part.
