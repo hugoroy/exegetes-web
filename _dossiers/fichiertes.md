@@ -14,9 +14,9 @@ Vous pouvez, au choix, contribuer à cette consultation :
 
 **[Pad en plein écran][pad]**
 
-<iframe src="https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif" style="width: 100%; height: 100%; min-height: 600px; max-width: 900px;"></iframe>
+<iframe src="https://pad.ilico.org/p/exegetes-fichier-tes-ampliatif" style="width: 100%; height: 100%; min-height: 600px; max-width: 900px;"></iframe>
 
-[pad]: https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif
+[pad]: https://pad.ilico.org/p/exegetes-fichier-tes-ampliatif
 [docx]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.docx
 [odt]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.odt
 [pdf]: https://github.com/hugoroy/exegetes-web/raw/181746ee466fe73f1c5522e13d7abe8e13340193/_dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.pdf
