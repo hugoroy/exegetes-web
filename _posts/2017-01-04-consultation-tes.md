@@ -61,6 +61,8 @@ Ce mémoire n'est qu'une étape dans la procédure. Le Gouvernement pourra ensui
 <!-- FIXME petite punchline de fin sur le caractère amateurish du truc :-) -->
 Dans tous les cas, qu'importe votre pierre apportée à l'édifice, merci ! <!--Et surtout rappelez-vous, nous sommes tous des amateurs (du latin amator : passionné, du verbe aimer).-->
 
+[Contribuer][lienConsultation]
+
 --------------------
 
 PS: Cela fait presque 2 ans que les exégètes amateurs ont commencé. D'après norte décompte: il s'agit de la 20^e^ procédure contentieuse (c.-à.-d. devant une juridiction) portée par les associations (La Quadrature du Net, la Fédération des fournisseurs d'accès à Internet associatif (Fédération FDN) et French Data Network) depuis février 2015. Ce mémoire ampliatif est le 65^e^ mémoire des Exégètes Amateurs (au sens large c'est-à-dire comprenant également les mémoires de recours gracieux comme les demandes d'abrogation, les mémoires contentieux réalisés en collaboration avec Spinosi & Sureau SCP, etc.). 
