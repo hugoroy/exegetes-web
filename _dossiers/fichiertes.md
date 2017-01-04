@@ -8,14 +8,13 @@ Pour contribuer à la [consultation lancée par les exégètes][lienannonce] sur
 
 Vous pouvez, au choix, contribuer à cette consultation :
     
-- en contribuant directement et publiquement sur le pad ci-dessous,
+- en contribuant directement et publiquement [sur le pad](https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif) ci-dessous,
 - en nous adressant par email vos commentaires ou vos contributions sur le fichier : [docx] ou [odt] 
 à l'adresse email consultation arobase exegetes.eu.org
 
+<iframe src="https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif" style="max-width: 900px;"></iframe>
 
 [docx]: https://exegetes.eu.org/dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.docx
 [odt]: https://exegetes.eu.org/dossiers/fichiertes/consultation-TES-REP-ampliatif-projet.odt
 
 [lienannonce]: https://exegetes.eu.org/consultation-tes/
-
-<iframe src="https://semestriel.framapad.org/p/exegetes-fichier-tes-ampliatif" style="max-width: 900px;"></iframe>
